@@ -1,0 +1,28 @@
+{
+  "blogs": [
+    {
+      "title": "My First Blog",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Necessitatibus quod ipsum quam est pariatur asperiores eveniet veniam. Necessitatibus excepturi, porro incidunt fuga illum dolorum neque exercitationem minus nihil ullam explicabo ipsum delectus debitis ducimus, sed placeat hic! Aliquam libero dolor, beatae dolorum vitae sunt voluptates modi voluptatum, perferendis temporibus tempora nemo reiciendis consequuntur excepturi nobis eaque distinctio! Voluptates asperiores, iure blanditiis nihil, dicta molestiae illum corporis aperiam beatae debitis quas a unde est, modi nesciunt dolorem assumenda ipsa incidunt deleniti. Vel totam illo vitae soluta exercitationem, similique quae nostrum iure eum voluptatibus porro sed, nesciunt accusamus veritatis cum nisi debitis!",
+      "author": "Sherifdeen Ishola",
+      "id": 1000
+    },
+    {
+      "title": "Opening Party!!!",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Necessitatibus quod ipsum quam est pariatur asperiores eveniet veniam. Necessitatibus excepturi, porro incidunt fuga illum dolorum neque exercitationem minus nihil ullam explicabo ipsum delectus debitis ducimus, sed placeat hic! Aliquam libero dolor, beatae dolorum vitae sunt voluptates modi voluptatum, perferendis temporibus tempora nemo reiciendis consequuntur excepturi nobis eaque distinctio! Voluptates asperiores, iure blanditiis nihil, dicta molestiae illum corporis aperiam beatae debitis quas a unde est, modi nesciunt dolorem assumenda ipsa incidunt deleniti. Vel totam illo vitae soluta exercitationem, similique quae nostrum iure eum voluptatibus porro sed, nesciunt accusamus veritatis cum nisi debitis!",
+      "author": "Sherifdeen Ishola",
+      "id": 1001
+    },
+    {
+      "title": "Kuda",
+      "body": ".create select.create select.create select.create select.create select.create select.create select.create select",
+      "author": "Sherifdeen Ishola",
+      "id": 1016
+    },
+    {
+      "title": "My Mum",
+      "body": "My MumMy MumMy MumMy MumMy MumMy MumMy MumMy MumMy MumMy MumMy MumMy MumMy MumMy MumMy MumMy MumMy MumMy MumMy MumMy MumMy MumMy MumMy MumMy MumMy MumMy MumMy MumMy MumMy MumMy Mum",
+      "author": "Muhammad Ishola",
+      "id": 1018
+    }
+  ]
+}
